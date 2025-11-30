@@ -6,7 +6,7 @@
 
 # Motivation
 
-🚀 Why I'm here: I'm currently studying at ReDi School and taking the "Introduction to Coding, Data and Design" course to build a strong foundation in tech. My next goal is to dive deeper into Data Analytics!  
+🚀 I'm currently in my second semester at ReDI School, now diving into the Data Analytics program. I’ve already completed the "Introduction to Coding, Data and Design" course — and I’m excited to keep growing my skills and exploring the world of data!
 
 # Skills
 
